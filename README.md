@@ -1,5 +1,8 @@
 # SWARM AGENTS
 
+![Logo](https://github.com/openai/swarm/blob/main/assets/logo.png)
+
+
 ### Setup
 1. git clone https://github.com/All-About-AI-YouTube/swarm_agents.git
 2. cd swarm_agents
